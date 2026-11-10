@@ -1,0 +1,16 @@
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\bin\Debug\net10.0\Тетрис.exe
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\bin\Debug\net10.0\Тетрис.deps.json
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\bin\Debug\net10.0\Тетрис.runtimeconfig.json
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\bin\Debug\net10.0\Тетрис.runtimeconfig.dev.json
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\bin\Debug\net10.0\Тетрис.dll
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\bin\Debug\net10.0\Тетрис.pdb
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\obj\Debug\net10.0\Тетрис.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\obj\Debug\net10.0\Тетрис.AssemblyInfoInputs.cache
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\obj\Debug\net10.0\Тетрис.AssemblyInfo.cs
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\obj\Debug\net10.0\Тетрис.csproj.CoreCompileInputs.cache
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\obj\Debug\net10.0\Тетрис.dll
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\obj\Debug\net10.0\refint\Тетрис.dll
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\obj\Debug\net10.0\Тетрис.pdb
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\obj\Debug\net10.0\Тетрис.genruntimeconfig.cache
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\obj\Debug\net10.0\ref\Тетрис.dll
+C:\Users\Zebra\OneDrive\Desktop\Тетрис\Тетрис\obj\Debug\net10.0\Тетрис.csproj.Up2Date
